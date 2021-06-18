@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{2214684A-2FE4-4DC6-86E6-45E3D09AD410}|Default">
+  <MonoDevelop.Ide.ItemProperties.PDFSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6E1BF18C-6323-4338-8716-AFB22B0719E6" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PDFSample" expanded="True">
+            <Node name="PDFSample" expanded="True">
+              <Node name="Packages" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

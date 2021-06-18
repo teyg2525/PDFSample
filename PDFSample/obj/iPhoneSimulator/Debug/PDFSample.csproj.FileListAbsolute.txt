@@ -1,0 +1,15 @@
+/Users/syefimenko/Projects/PDFSample/PDFSample/bin/iPhoneSimulator/Debug/PDFSample.exe
+/Users/syefimenko/Projects/PDFSample/PDFSample/bin/iPhoneSimulator/Debug/PDFSample.pdb
+/Users/syefimenko/Projects/PDFSample/PDFSample/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/syefimenko/Projects/PDFSample/PDFSample/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/device-builds/ipad pro (11-inch) (2nd generation)-14.5/actool/_PartialAppManifest.items
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/device-builds/ipad pro (11-inch) (2nd generation)-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/device-builds/ipad pro (11-inch) (2nd generation)-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/device-builds/ipad pro (11-inch) (2nd generation)-14.5/coremlc/_PartialAppManifest.items
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/device-builds/ipad pro (11-inch) (2nd generation)-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/device-builds/ipad pro (11-inch) (2nd generation)-14.5/optimized/
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/PDFSample.csproj.AssemblyReference.cache
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/PDFSample.csproj.CoreCompileInputs.cache
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/PDFSample.csproj.CopyComplete
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/PDFSample.exe
+/Users/syefimenko/Projects/PDFSample/PDFSample/obj/iPhoneSimulator/Debug/PDFSample.pdb

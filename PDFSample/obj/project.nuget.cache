@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9WIDM7QyXBvTICUAyZxOHwpq54GiooHx8EejN8DfdzUNffQPOkTUAyWioUzK5cgB9CRaRj/WAvt3HHOPQLVFig==",
+  "success": true,
+  "projectFilePath": "/Users/syefimenko/Projects/PDFSample/PDFSample/PDFSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/syefimenko/.nuget/packages/pspdfkit.ios.model/10.4.0/pspdfkit.ios.model.10.4.0.nupkg.sha512",
+    "/Users/syefimenko/.nuget/packages/pspdfkit.ios.ui/10.4.0/pspdfkit.ios.ui.10.4.0.nupkg.sha512",
+    "/Users/syefimenko/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/syefimenko/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
